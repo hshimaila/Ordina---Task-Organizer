@@ -166,6 +166,7 @@ npm start
 ## 💡 What This Project Demonstrates
 
 ✔ Full-stack development capability
+
 ✔ Secure authentication implementation
 
 ✔ API design & integration
